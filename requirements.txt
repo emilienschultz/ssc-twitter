@@ -1,0 +1,8 @@
+pandas
+pyarrow
+matplotlib
+python-Levenshtein
+networkx
+ipysigma
+spacy
+bertopic
