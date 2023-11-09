@@ -11,3 +11,5 @@ Ce répertoire contient 4 notebooks sur 4 aspects, avec une partie du code vu en
 
 - Le dernier notebook n'a pas été traité dans le cours.
 - Certaines questions des notebooks 1/2/3 n'ont pas été abordées.
+
+**Le rendu final est à envoyer par mail pour le 30/11 ; les instructions sont dans les slides d'introduction du cours**
